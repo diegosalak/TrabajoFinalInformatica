@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<usuarios>
+  <usuario documento_I="888888889">
+    <nombre>Diego Mario Salamanca Cardenas</nombre>
+    <contraseña>1234</contraseña>
+  </usuario>
+  <usuario documento_I="222111333">
+    <nombre>Salome E. Rodriguez</nombre>
+    <contraseña>2111</contraseña>
+  </usuario>
+  <usuario documento_I="122333444">
+    <nombre>David Araujo</nombre>
+    <contraseña>7</contraseña>
+  </usuario>
+  <usuario documento_I="998856743">
+    <nombre>Santiago Duran</nombre>
+    <contraseña>22</contraseña>
+  </usuario>
+</usuarios>
