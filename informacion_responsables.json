@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "apellido": "Rodriguez",
+        "documento_I": 938447329,
+        "cargo": "supervisor",
+        "contrase\u00f1a": "10",
+        "nombre": "Adiel"
+    },
+    {
+        "_id": 2,
+        "apellido": "zuluaga",
+        "documento_I": 938326173,
+        "cargo": "Analista",
+        "nombre": "Sara",
+        "contrase\u00f1a": "981"
+    },
+    {
+        "_id": 3,
+        "apellido": "Perez",
+        "documento_I": 167499878,
+        "cargo": "experimentador",
+        "nombre": "Andres",
+        "contrase\u00f1a": "675"
+    }
+]

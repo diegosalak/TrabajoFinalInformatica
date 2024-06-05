@@ -1,0 +1,74 @@
+[
+    {
+        "serial_probeta": "301",
+        "nombre_material": "diamante",
+        "Rp_traccion": "21 N/mm²",
+        "Rp_dureza": "90 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "no",
+        "Rp_densidad": "54 kg/m³",
+        "RT_fusion": "1000 °C",
+        "fecha_realizacion": "3/1/2024",
+        "codigo_responsable": 1
+    },
+    {
+        "serial_probeta": "1121",
+        "nombre_material": "cobre",
+        "Rp_traccion": "29 N/mm²",
+        "Rp_dureza": "76 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "no",
+        "Rp_densidad": "67 kg/m³",
+        "RT_fusion": "1123 °C",
+        "fecha_realizacion": "3/1/2024",
+        "codigo_responsable": 2
+    },
+    {
+        "serial_probeta": "664",
+        "nombre_material": "niquel",
+        "Rp_traccion": "9 N/mm²",
+        "Rp_dureza": "8 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "si",
+        "Rp_densidad": "32 kg/m³",
+        "RT_fusion": "276 °C",
+        "fecha_realizacion": "4/1/2024",
+        "codigo_responsable": 3
+    },
+    {
+        "serial_probeta": "777",
+        "nombre_material": "Plata",
+        "Rp_traccion": "35 N/mm²",
+        "Rp_dureza": "45 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "no",
+        "Rp_densidad": "10.49 g/cm³",
+        "RT_fusion": "961 °C",
+        "fecha_realizacion": "5/1/2024",
+        "codigo_responsable": 4
+    },
+    {
+        "serial_probeta": "888",
+        "nombre_material": "Hierro",
+        "Rp_traccion": "250 N/mm²",
+        "Rp_dureza": "85 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "no",
+        "Rp_densidad": "7.87 g/cm³",
+        "RT_fusion": "1538 °C",
+        "fecha_realizacion": "6/1/2024",
+        "codigo_responsable": 5
+    },
+    {
+        "serial_probeta": "999",
+        "nombre_material": "Oro",
+        "Rp_traccion": "120 N/mm²",
+        "Rp_dureza": "30 HB",
+        "Rp_hemocompatibilidad": "no",
+        "Rp_inflamabilidad": "no",
+        "Rp_densidad": "19.32 g/cm³",
+        "RT_fusion": "1064 °C",
+        "fecha_realizacion": "7/1/2024",
+        "codigo_responsable": 6
+    }
+]
